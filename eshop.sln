@@ -1,0 +1,106 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eshop", "eshop\eshop.csproj", "{AAC8B57D-E1F1-408D-8C18-3AE374B037FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Template", "Template", "{D4DA8A43-A62F-4D97-9558-E3284E5C2A7C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\blog-details.html = ..\..\..\..\..\Downloads\ogani-master\ogani-master\blog-details.html
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\blog.html = ..\..\..\..\..\Downloads\ogani-master\ogani-master\blog.html
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\checkout.html = ..\..\..\..\..\Downloads\ogani-master\ogani-master\checkout.html
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\contact.html = ..\..\..\..\..\Downloads\ogani-master\ogani-master\contact.html
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\index.html = ..\..\..\..\..\Downloads\ogani-master\ogani-master\index.html
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\main.html = ..\..\..\..\..\Downloads\ogani-master\ogani-master\main.html
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\readme.txt = ..\..\..\..\..\Downloads\ogani-master\ogani-master\readme.txt
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\shop-details.html = ..\..\..\..\..\Downloads\ogani-master\ogani-master\shop-details.html
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\shop-grid.html = ..\..\..\..\..\Downloads\ogani-master\ogani-master\shop-grid.html
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\shoping-cart.html = ..\..\..\..\..\Downloads\ogani-master\ogani-master\shoping-cart.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{7FC3A613-BC9F-41E2-A22B-A88F98E85648}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\css\bootstrap.min.css = ..\..\..\..\..\Downloads\ogani-master\ogani-master\css\bootstrap.min.css
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\css\elegant-icons.css = ..\..\..\..\..\Downloads\ogani-master\ogani-master\css\elegant-icons.css
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\css\font-awesome.min.css = ..\..\..\..\..\Downloads\ogani-master\ogani-master\css\font-awesome.min.css
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\css\jquery-ui.min.css = ..\..\..\..\..\Downloads\ogani-master\ogani-master\css\jquery-ui.min.css
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\css\nice-select.css = ..\..\..\..\..\Downloads\ogani-master\ogani-master\css\nice-select.css
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\css\owl.carousel.min.css = ..\..\..\..\..\Downloads\ogani-master\ogani-master\css\owl.carousel.min.css
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\css\slicknav.min.css = ..\..\..\..\..\Downloads\ogani-master\ogani-master\css\slicknav.min.css
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\css\style.css = ..\..\..\..\..\Downloads\ogani-master\ogani-master\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{CE3D8CD4-EFF5-4A33-AC75-B15C4C4D6EC5}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\ElegantIcons.eot = ..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\ElegantIcons.eot
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\ElegantIcons.svg = ..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\ElegantIcons.svg
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\ElegantIcons.ttf = ..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\ElegantIcons.ttf
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\ElegantIcons.woff = ..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\ElegantIcons.woff
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\fontawesome-webfont.eot = ..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\fontawesome-webfont.eot
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\fontawesome-webfont.svg = ..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\fontawesome-webfont.svg
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\fontawesome-webfont.ttf = ..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\fontawesome-webfont.ttf
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\fontawesome-webfont.woff = ..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\fontawesome-webfont.woff
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\fontawesome-webfont.woff2 = ..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\fontawesome-webfont.woff2
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\FontAwesome.otf = ..\..\..\..\..\Downloads\ogani-master\ogani-master\fonts\FontAwesome.otf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{31E7BA3D-2FFF-4FAF-89EF-2DFBE8687B1A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\js\bootstrap.min.js = ..\..\..\..\..\Downloads\ogani-master\ogani-master\js\bootstrap.min.js
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\js\jquery-3.3.1.min.js = ..\..\..\..\..\Downloads\ogani-master\ogani-master\js\jquery-3.3.1.min.js
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\js\jquery-ui.min.js = ..\..\..\..\..\Downloads\ogani-master\ogani-master\js\jquery-ui.min.js
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\js\jquery.nice-select.min.js = ..\..\..\..\..\Downloads\ogani-master\ogani-master\js\jquery.nice-select.min.js
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\js\jquery.slicknav.js = ..\..\..\..\..\Downloads\ogani-master\ogani-master\js\jquery.slicknav.js
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\js\main.js = ..\..\..\..\..\Downloads\ogani-master\ogani-master\js\main.js
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\js\mixitup.min.js = ..\..\..\..\..\Downloads\ogani-master\ogani-master\js\mixitup.min.js
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\js\owl.carousel.min.js = ..\..\..\..\..\Downloads\ogani-master\ogani-master\js\owl.carousel.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sass", "sass", "{45751AAE-D84E-431C-8065-D6FB516DE85E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_base.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_base.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_blog-details.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_blog-details.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_blog-sidebar.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_blog-sidebar.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_blog.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_blog.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_breadcrumb.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_breadcrumb.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_checkout.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_checkout.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_contact.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_contact.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_footer.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_footer.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_header.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_header.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_hero.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_hero.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_home-page.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_home-page.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_mixins.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_mixins.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_responsive.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_responsive.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_shop-details.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_shop-details.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_shop-grid.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_shop-grid.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_shoping-cart.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_shoping-cart.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_sidebar.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_sidebar.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_variable.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\_variable.scss
+		..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\style.scss = ..\..\..\..\..\Downloads\ogani-master\ogani-master\sass\style.scss
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC8B57D-E1F1-408D-8C18-3AE374B037FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC8B57D-E1F1-408D-8C18-3AE374B037FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC8B57D-E1F1-408D-8C18-3AE374B037FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC8B57D-E1F1-408D-8C18-3AE374B037FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7FC3A613-BC9F-41E2-A22B-A88F98E85648} = {D4DA8A43-A62F-4D97-9558-E3284E5C2A7C}
+		{CE3D8CD4-EFF5-4A33-AC75-B15C4C4D6EC5} = {D4DA8A43-A62F-4D97-9558-E3284E5C2A7C}
+		{31E7BA3D-2FFF-4FAF-89EF-2DFBE8687B1A} = {D4DA8A43-A62F-4D97-9558-E3284E5C2A7C}
+		{45751AAE-D84E-431C-8065-D6FB516DE85E} = {D4DA8A43-A62F-4D97-9558-E3284E5C2A7C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0FD9E79-9360-437C-97EF-7AEBC4B6A4EB}
+	EndGlobalSection
+EndGlobal
