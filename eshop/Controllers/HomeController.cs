@@ -25,7 +25,7 @@ namespace eshop.Controllers
             var products = productService.GetProducts();
 
             var count = products.Count;
-            var productPerPage = 3; //sayfada gösterilecek toplam ürün sayısı.
+            var productPerPage = 4; //sayfada gösterilecek toplam ürün sayısı.
             var totalPages = Math.Ceiling((decimal)count / productPerPage);
 
 

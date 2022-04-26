@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Category>
+
+@foreach (var item in Model)
+{
+    <div class="col-lg-3">
+        <div class="categories__item set-bg" data-setbg=@item.ImageUrl>
+            <h5><a href="#">@item.Name</a></h5>
+        </div>
+    </div>
+}
+
